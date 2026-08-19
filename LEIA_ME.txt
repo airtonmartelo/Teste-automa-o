@@ -1,0 +1,55 @@
+=======================================================================
+                    LEIA-ME: Automatizador de Testes
+=======================================================================
+
+Este arquivo contém instruções importantes sobre a configuração e uso
+deste aplicativo.
+
+-----------------------------------------------------------------------
+1. Configuração Inicial do Wi-Fi (Obrigatório para a função de conexão)
+-----------------------------------------------------------------------
+
+Para que o botão "Conectar" na ferramenta "Conexão Wi-Fi" do programa
+principal funcione, você precisa primeiro configurar as credenciais da
+rede que será usada como padrão.
+
+Como fazer:
+1. Execute o arquivo "ConfigurarWiFi" que está nesta pasta.
+2. Uma pequena janela chamada "Configurador de Wi-Fi" irá aparecer.
+3. Preencha os campos:
+   - Nome da Rede (SSID): O nome exato da rede Wi-Fi que você quer usar.
+   - Senha: A senha desta rede Wi-Fi.
+   - Tipo de Segurança: Geralmente é "WPA2PSK". Mude apenas se tiver certeza.
+4. Clique em "Salvar Configuração".
+
+Uma vez salvo, o programa principal ("AutomacaoBancada") saberá a qual rede se
+conectar quando você usar a ferramenta de conexão Wi-Fi.
+
+Você só precisa fazer isso uma vez, a menos que queira mudar a rede
+padrão ou a senha.
+
+-----------------------------------------------------------------------
+2. Executando o Aplicativo Principal
+-----------------------------------------------------------------------
+
+Para iniciar o programa de testes, execute o arquivo "AutomacaoBancada".
+
+O aplicativo principal irá carregar e exibir as informações do hardware,
+as ferramentas de teste e o checklist de verificação.
+
+-----------------------------------------------------------------------
+3. Geração de Relatórios
+-----------------------------------------------------------------------
+
+Após preencher o checklist e realizar os testes, você pode gerar um
+relatório em formato .txt.
+
+1. Preencha o campo "Patrimônio" na seção "Informações do Equipamento".
+   Isso habilitará o botão de relatório.
+2. Clique em "Finalizar e Gerar Relatório".
+
+O arquivo de relatório será salvo na pasta "Relatorios", que será
+criada dentro do diretório do programa. Você pode usar o botão
+"Abrir Pasta" para acessar rapidamente esses relatórios.
+
+=======================================================================

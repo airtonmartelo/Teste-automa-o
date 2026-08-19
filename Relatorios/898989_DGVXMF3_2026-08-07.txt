@@ -1,0 +1,92 @@
+==================================================
+        RELATÓRIO TRIAGEM (PCTEC)
+Data/Hora: 07/08/2026 07:34:04
+Patrimônio: 898989
+Equipamento: Latitude 7310
+Fabricante: Dell Inc.
+Service Tag / Serial: DGVXMF3
+Processador: Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz
+Memoria RAM: 16 GB
+Armazenamento: 477 GB
+==================================================
+
+--- Sistema Operacional ---
+[PASS] Windows instalado corretamente
+[PASS] Windows ativado
+[PASS] Drivers instalados
+[PASS] Sem erros no Gerenciador de Dispositivos
+
+--- Atualizações ---
+[PASS] Windows Update concluído
+[PASS] Lenovo Update executado (quando aplicável)
+[PASS] Dell Command Update executado (quando aplicável)
+[PASS] BIOS/Firmware atualizados (quando aplicável)
+
+--- Tela e Vídeo ---
+[PASS] Tela funcionando corretamente
+[PASS] Controle de brilho operacional
+[PASS] Resolução configurada corretamente
+[PASS] Saída HDMI testada
+[PASS] Reprodução de vídeo testada
+
+--- Teclado ---
+[PASS] Todas as teclas testadas
+[PASS] Teclas de função (FN) funcionando
+[PASS] Caps Lock funcionando
+[PASS] Ajuste de brilho via teclado funcionando
+[PASS] Ajuste de volume via teclado funcionando
+
+--- Touchpad ---
+[PASS] Touchpad funcionando
+[PASS] Clique esquerdo funcionando
+[PASS] Clique direito funcionando
+[PASS] Rolagem (scroll) funcionando
+
+--- Áudio e Multimídia ---
+[PASS] Alto-falantes funcionando
+[PASS] Microfone funcionando
+[PASS] Webcam funcionando
+[PASS] Entrada para headset/fone funcionando (quando aplicável)
+
+--- Conectividade ---
+[PASS] Wi-Fi funcionando
+[PASS] Bluetooth funcionando
+[PASS] Rede cabeada funcionando (quando aplicável)
+
+--- Portas e Interfaces ---
+[PASS] USB esquerda testada
+[PASS] USB direita testada
+[PASS] USB-C testada (quando aplicável)
+[PASS] Leitor de cartão SD testado (quando aplicável)
+
+--- Energia e Bateria ---
+[PASS] Fonte/carregador funcionando
+[PASS] Conector de energia sem mau contato
+[PASS] Equipamento carregando corretamente
+[PASS] Bateria reconhecida pelo sistema
+[PASS] Bateria carregando normalmente
+
+--- Inspeção Física ---
+[PASS] Carcaça sem danos relevantes
+[PASS] Dobradiças em bom estado
+[PASS] Tampa abrindo e fechando corretamente
+[PASS] Parafusos presentes e fixados
+[PASS] Fonte em bom estado físico
+
+--- Testes Gerais ---
+[PASS] Equipamento reinicia corretamente
+[FAIL] Equipamento desliga corretamente
+      L Detalhe da Falha: Não funciona
+[PASS] Suspensão funcionando
+[PASS] Retorno da suspensão funcionando
+[PASS] Sem travamentos durante os testes
+
+--- Softwares Corporativos ---
+[PASS] Navegador instalado
+[PASS] Pacote Office instalado (quando aplicável)
+[PASS] Teams instalado (quando aplicável)
+[PASS] Ferramenta de acesso remoto instalada
+[PASS] VPN instalada (quando aplicável)
+[PASS] Impressoras configuradas (quando aplicável)
+
+==================================================
