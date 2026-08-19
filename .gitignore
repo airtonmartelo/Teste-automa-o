@@ -1,0 +1,20 @@
+# Pastas de ambiente virtual Python
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Node / Outras dependências (se houver)
+node_modules/
+
+# Arquivos de dados pesados ou temporários
+*.zip
+*.exe
+*.sqlite3
+.env
